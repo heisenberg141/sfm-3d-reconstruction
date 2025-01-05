@@ -54,7 +54,7 @@ To provide a clear overview, here’s a step-by-step flow of the pipeline:
 1. **Feature Detection & Matching**  
 2. **Fundamental Matrix Estimation** (Epipolar Geometry)  
 3. **Essential Matrix Decomposition** (Camera Pose)  
-4. **Triangulation*
+4. **Triangulation**
 
 ## Dependencies  
 - Python 3.8 or higher   
